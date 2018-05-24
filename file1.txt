@@ -2,3 +2,4 @@ file1
 creating a new branch is quick
 practice branch command
 solve the branch conflict
+git branch -b dev
