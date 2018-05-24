@@ -1,0 +1,54 @@
+[33mcommit d10c48135b1b256fb9c2a4acd4e2c0f2c29f5f32[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: CrossYan <851438603@qq.com>
+Date:   Fri May 4 00:02:44 2018 +0800
+
+    add clone gitskills
+
+[33mcommit 8f5dc25272c0f7d799dd51796588020a923e1bd5[m
+Author: CrossYan <851438603@qq.com>
+Date:   Fri May 4 00:01:55 2018 +0800
+
+    20180503 git branch
+
+[33mcommit edcc402b3491d50430a87de9afc07c064c42998d[m
+Merge: 60ffb28 44dbfee
+Author: CrossYan <851438603@qq.com>
+Date:   Thu May 3 23:47:48 2018 +0800
+
+    conflict fixed
+
+[33mcommit 60ffb28b46f2f9841d9c9ef4987097a662d17439[m
+Author: CrossYan <851438603@qq.com>
+Date:   Thu May 3 23:44:44 2018 +0800
+
+    add record
+
+[33mcommit 44dbfeeb6754075668b87c4ccba48bdef74e0671[m
+Author: CrossYan <851438603@qq.com>
+Date:   Thu May 3 23:42:05 2018 +0800
+
+    test branch conflict
+
+[33mcommit 7ef9be6b1ceda0ea08a77e2051f6268e9465333e[m
+Author: CrossYan <851438603@qq.com>
+Date:   Thu May 3 23:31:16 2018 +0800
+
+    test git branch
+
+[33mcommit 7988b556eef4d18d5ed7b629bb8afe7a77027173[m
+Author: CrossYan <851438603@qq.com>
+Date:   Thu May 3 23:15:39 2018 +0800
+
+    branch test
+
+[33mcommit d373cbff6c4044d5b38d5ab8bad2cf90b1ea871b[m
+Author: CrossYan <851438603@qq.com>
+Date:   Thu May 3 23:06:32 2018 +0800
+
+    create note file
+
+[33mcommit a5b13eb0210e735503afa133d1560c51437e9c75[m
+Author: CrossYan <851438603@qq.com>
+Date:   Fri Apr 27 01:23:03 2018 +0800
+
+    add file
