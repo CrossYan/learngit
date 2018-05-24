@@ -6,3 +6,4 @@ git branch -b dev
 git command practice
 123456000
 command
+git stash
