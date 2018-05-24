@@ -7,3 +7,4 @@ git command practice
 123456000
 command
 git stash
+git stash list
