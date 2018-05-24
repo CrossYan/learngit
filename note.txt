@@ -20,3 +20,11 @@ git log --pretty=oneline
 准备合并dev分支，请注意--no-ff参数，表示禁用Fast forward
 因为本次合并要创建一个新的commit，所以加上-m参数，把commit描述写进去。
 git merge --no-ff -m 'merge with --no-ff' dev
+
+git stash 把当前工作现场“储藏”起来
+一是用git stash apply恢复，但是恢复后，stash内容并不删除，你需要用git stash drop来删除；
+另一种方式是用git stash pop，恢复的同时把stash内容也删了：
+可以多次stash，恢复的时候，先用git stash list查看，然后恢复指定的stash，用命令：
+$ git stash apply stash@{0}
+
+20180524
